@@ -102,3 +102,17 @@ Again the accuracy score for SVC models are higher that DTC model(0.56 vs 0.45).
 The above visuals shows the comparison of our SVM models (original and adjusted) with the new DTC model. Notice that all the three SVC models performed better than DTC model. Comparing  the SVC models, the adjusted model with 6 months training window is surpassing other models in making trading decisions which means the SVC model 1's trading desions produced a higher cumulative return value than the other models.
 
 In conclusion,we can say that new model DTC performed worst than the SVC models and should be tested with new testing data with adjusted parameters in order to produce better results.
+
+---
+
+## Contributors
+
+Manisha Lal     
+09/22/2022
+manisha.lal.2009@gmail.com
+
+---
+
+## License
+
+copyright 2022
